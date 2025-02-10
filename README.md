@@ -26,13 +26,6 @@ This **interactive Streamlit dashboard** allows users to **connect to a MySQL da
 - Handles **database connection errors** gracefully.  
 - **Prevents SQL injection** with **parameterized queries**.  
 
----
-
-## **📸 Screenshots**
-_Add some screenshots here showing the UI, table, charts, and AI analysis._
-
----
-
 
 ## **Tech Stack**
 + Streamlit → Interactive UI
