@@ -43,7 +43,7 @@ This **interactive Streamlit dashboard** allows users to **connect to a MySQL da
 5. Run AI analysis on the dataset with LLM insights.
 
 ## **Future Improvements**
-- Support for PostgreSQL & SQLite
+- Support for PostgreSQL
 - Advanced filtering options
 - Integration with OpenAI GPT models using API
 
