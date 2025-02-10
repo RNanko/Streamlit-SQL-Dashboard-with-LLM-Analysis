@@ -18,6 +18,7 @@ Uses LangChain Ollama LLM (e.g., Phi-4, LLaMA3.1) to analyze the dataset and pro
 
 Handles database connection errors gracefully.
 Prevents SQL injection with parameterized queries.
+------
 
 🖥️ Tech Stack
 Streamlit → Interactive UI
