@@ -2,6 +2,8 @@
 
 This **interactive Streamlit dashboard** allows users to **connect to a MySQL database, run SQL queries, visualize data, and analyze results** using an **LLM (Large Language Model)**.  
 
+
+https://github.com/user-attachments/assets/a63a998a-a00d-4725-a916-cfef0de8c9a2
 ---
 
 ## **📌 Features**
