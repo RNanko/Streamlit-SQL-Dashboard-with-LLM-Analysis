@@ -1,7 +1,7 @@
 # 🚀 Streamlit SQL Dashboard with LLM Analysis  
 
 
-https://github.com/user-attachments/assets/a63a998a-a00d-4725-a916-cfef0de8c9a2
+https://github.com/user-attachments/assets/ecb5de97-9484-45c5-9111-8df2de38d3a3
 
 This **interactive Streamlit dashboard** allows users to **connect to a MySQL database, run SQL queries, visualize data, and analyze results** using an **LLM (Large Language Model)**.  
 
