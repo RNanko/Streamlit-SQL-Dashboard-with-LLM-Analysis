@@ -52,3 +52,10 @@ Feel free to fork this project, submit pull requests, or report issues!
 
 ## License
 This project is licensed under the MIT License.
+
+## Usfull referancese 
+[Ollama phi4](https://ollama.com/library/phi4)
+[Streamlit](https://streamlit.io)
+[Data base: clasicmodels](https://www.mysqltutorial.org/getting-started-with-mysql/mysql-sample-database/)
+
+
